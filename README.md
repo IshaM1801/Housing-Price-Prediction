@@ -129,5 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. This project uses the California Housing dataset available through `scikit-learn`.
 
 ---
-
-This README provides an overview of your project and explains how users can replicate and evaluate the code.
